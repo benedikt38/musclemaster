@@ -1,0 +1,29 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Grundlagen}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Sarkomer}{1}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Myosin}{1}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Aktin}{1}{subsubsection.2.1.2}
+\contentsline {section}{\numberline {3}Implementation}{1}{section.3}
+\contentsline {subsection}{\numberline {3.1}Generierung von Myosin}{1}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Generierung der Myosin Offset Positionen}{1}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Generierung eines Myosin Filaments}{2}{subsubsection.3.1.2}
+\contentsline {paragraph}{Berechnung der LMM Positionen}{3}{figure.caption.6}
+\contentsline {paragraph}{Berechnung der HMM Positionen}{4}{figure.caption.8}
+\contentsline {paragraph}{Berechnung der Myosin Kopf positionen.}{5}{section*.9}
+\contentsline {subsection}{\numberline {3.2}Generierung von Aktin}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Generierung der Aktin Offset Positionen}{5}{subsubsection.3.2.1}
+\contentsline {paragraph}{Fall 1 (Vertebrate simple und Vertebrate super \(2:1\))}{6}{figure.caption.11}
+\contentsline {paragraph}{Fall 2 (Insect Flight \(3:1\))}{6}{figure.caption.13}
+\contentsline {paragraph}{Fall 3 (Invertebrate \(5:1\))}{7}{figure.caption.15}
+\contentsline {paragraph}{Fall 4 (Invertebrate \(6:1\))}{9}{figure.caption.17}
+\contentsline {subsubsection}{\numberline {3.2.2}Generierung eines Aktin Filaments}{10}{subsubsection.3.2.2}
+\contentsline {paragraph}{Berechnung der Aktin Monomer Positionen}{10}{figure.caption.20}
+\contentsline {paragraph}{Berechnung der Tropomyosin Positionen}{11}{section*.22}
+\contentsline {paragraph}{Berechnung der Troponin Positionen}{12}{section*.23}
+\contentsline {subsection}{\numberline {3.3}Rendering}{12}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Rendern von Kugeln}{12}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Lines}{14}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Gui}{14}{subsection.3.4}
+\contentsline {section}{\numberline {4}Evaluation}{14}{section.4}
+\contentsline {section}{\numberline {5}Fazit}{14}{section.5}

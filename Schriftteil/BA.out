@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 1
+\BOOKMARK [1][-]{section.2}{Grundlagen}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Sarkomer}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Myosin}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Aktin}{subsection.2.1}% 5
+\BOOKMARK [1][-]{section.3}{Implementation}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Generierung von Myosin}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Generierung der Myosin Offset Positionen}{subsection.3.1}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Generierung eines Myosin Filaments}{subsection.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Generierung von Aktin}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Generierung der Aktin Offset Positionen}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Generierung eines Aktin Filaments}{subsection.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Rendering}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Rendern von Kugeln}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Lines}{subsection.3.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Gui}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Evaluation}{}% 17
+\BOOKMARK [1][-]{section.5}{Fazit}{}% 18
