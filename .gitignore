@@ -12,6 +12,7 @@
 
 #cmake build ordner
 /Build64
+/out
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
